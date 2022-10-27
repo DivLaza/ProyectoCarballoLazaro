@@ -5,15 +5,31 @@
 
 .navbar-brand {   
     font-size: x-large;
-    background-color: rgb(102, 167, 199);
+    background-color: rgba(90, 46, 46, 0.900);
     margin: 25px;
     padding: 10px;
-    
+}
+
+#collapsibleNavbar {
+    padding: 20px;
+    margin: 25px;
+}
+
+.jumbotron {
+    background-color: rgba(223, 186, 105, 0.900);
+}
+
+.container {
+    background-color: rgba(255, 223, 223, 0.1);
+}
+
+.btn {
+    background-color: rgba(90, 46, 46, 0.900);
+    margin: 10px;
 }
 
 .carousel-inner img {
-    /* width: 100%;
-    height: 100%; */
-    max-width: 100%;
+    width: 100%;
     height: auto;
+    
   }
