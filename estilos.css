@@ -39,12 +39,13 @@
 .row {
     border-style: solid;
     border-width: 1px;
+    margin-bottom: 20px;
 }
 
 .btn:hover {
     color:rgb(22, 23, 24);
     text-decoration: underline;
-    transition: 2.5s ;
+    transition: 2.5s;
     zoom: 110%;
 }
 
@@ -92,3 +93,16 @@ i:hover {
     color:rgb(204, 206, 207);
 }
 
+.sectionContact {
+    height: 100%;
+    width: auto
+}
+
+#contactForm {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.tituloContacto {
+    margin-bottom:100px;
+}
