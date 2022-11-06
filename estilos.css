@@ -34,12 +34,17 @@
     border-width: 1px;
 }
 
+.container-card   {
+    margin: 0 auto;
+    float: center;
+    margin-bottom: 10px;
+}
 .container {
     background-color: rgba(255, 223, 223, 0.2);
 }
 
 .btn {
-    background-color: rgba(90, 46, 46, 0.700);
+    background-color: rgba(133, 42, 42, 0.7);
     margin: 10px;
     color: #fff;
 }
@@ -62,22 +67,22 @@
     top: -40px;
     width: 1000px;
     margin: auto;
-  }
+}
 
-  #Psicoterapeuta {
+#Psicoterapeuta {
         font-weight: 350;
 }
-  .carousel-control-prev-icon {
+.carousel-control-prev-icon {
     height: 30px;
     width: 30px;
-  }
+}
 
-  .carousel-control-next-icon {
+.carousel-control-next-icon {
     height: 30px;
     width: 30px;
-  }
+}
 
-  footer{
+footer{
     height: 120px;
     width: 100%;
     padding: 30px;
