@@ -37,22 +37,24 @@
 .container-card   {
     margin: 0 auto;
     float: center;
-    margin-bottom: 10px;
+    margin-bottom: 50px;
 }
 .container {
     background-color: rgba(255, 223, 223, 0.2);
 }
 
 .btn {
-    background-color: rgba(133, 42, 42, 0.7);
+    background-color: rgba(223, 186, 105, 0.900);
     margin: 10px;
     color: #fff;
 }
 
 .row {
-    border-style: ;
     border-width: 1px;
     margin-bottom: 20px;
+    border-style: groove;
+    border-color: rgba(193, 193, 193, 0.1);
+    background-color: rgba(229, 229, 229, 0.066);
 }
 
 .btn:hover {
@@ -70,7 +72,7 @@
 }
 
 #Psicoterapeuta {
-        font-weight: 350;
+    font-weight: 350;
 }
 .carousel-control-prev-icon {
     height: 30px;
@@ -119,4 +121,10 @@ i:hover {
 #contactForm {
     text-align: center;
     margin-bottom: 40px;
+    background-color: #fff;
+    background-color: rgba(229, 229, 229, 0.1);
+}
+
+.DatosPsico {
+    text-align: center;
 }
