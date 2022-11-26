@@ -4,10 +4,6 @@
     box-sizing: border-box;
 }
 
-.navbar {
-    background-color: rgb(83, 88, 96);
-}
-
 .nav-item {
     color: #fff;
 }
@@ -94,9 +90,8 @@ footer{
     color: #fff;
     letter-spacing: 2px;
     text-align: center;
-    font-size: large;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-weight: 300;
+    font-size: x-large;
+    font-weight: 400;
     border-style:solid;
     border-color: rgba(9, 8, 8, 0.3);
     position: absolute;
@@ -128,4 +123,21 @@ i:hover {
 
 .DatosPsico {
     text-align: center;
+}
+
+.faqHeader {
+    text-align: center;
+    font-size: 40px 
+}
+
+.accordion{
+    margin: 40px;
+    padding: 50px;
+}
+.accordion-toggle {
+    text-align: center;
+}
+
+.panel-body {
+    margin: 50px;
 }
